@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Liki, I code plugins for minecraft, specifically for the brickSMP server.
-- 🌱 I’m currently learning java, spigot, and trying to understand the difference with craftbukkit.
+- 👋 Hi, I’m Liki, I code all kinds of stuff, lately I coded a package for OpenTTD and started learning webdev.
+- 🌱 I’m currently learning javascript.
 - 💞️ I’m not really looking for a collaboration, but if you have tips to improve my coding skills, be sure to let me know.
 - 📫 You can reach me through github.
 
